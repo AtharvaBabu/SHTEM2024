@@ -1,2 +1,2 @@
 # SHTEM2024
-Stanford SHTEM internshio 2024
+Stanford SHTEM internship 2024
